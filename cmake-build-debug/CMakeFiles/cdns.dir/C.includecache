@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Computer_Science/CDNS/dns.c
+dns.h
+D:/Computer_Science/CDNS/dns.h
+hashdns.h
+D:/Computer_Science/CDNS/hashdns.h
+stdio.h
+-
+
+D:/Computer_Science/CDNS/dns.h
+
+D:/Computer_Science/CDNS/hashdns.h
+string.h
+-
+stdlib.h
+-
+
